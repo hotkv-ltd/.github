@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hotkv-ltd/.github/main/profile/hotkv-mark-dark.svg">
-    <img alt="HotKV" src="https://raw.githubusercontent.com/hotkv-ltd/.github/main/profile/hotkv-mark-light.svg" width="96">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hotkv-ltd/.github/raw/main/profile/hotkv-mark-dark.svg">
+    <img alt="HotKV" src="https://github.com/hotkv-ltd/.github/raw/main/profile/hotkv-mark-light.svg" width="96">
   </picture>
 </p>
 
