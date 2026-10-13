@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" role="img" aria-label="HotKV">
+  <rect x="14" y="26" width="12" height="11" rx="5.5" fill="#f15f22"></rect>
+  <rect x="30" y="26" width="26" height="11" rx="5.5" fill="#10152a"></rect>
+  <rect x="14" y="44" width="12" height="11" rx="5.5" fill="#f15f22"></rect>
+  <rect x="30" y="44" width="50" height="11" rx="5.5" fill="#10152a"></rect>
+  <rect x="14" y="62" width="12" height="11" rx="5.5" fill="#f15f22"></rect>
+  <rect x="30" y="62" width="26" height="11" rx="5.5" fill="#10152a"></rect>
+</svg>
